@@ -9,6 +9,7 @@
 ## Información del curso
 
 **Ramo:** Métodos de Inteligencia Artificial
+
 **Profesor:** Franco Mansilla
 
 **Integrantes:**
